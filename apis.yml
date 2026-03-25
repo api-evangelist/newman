@@ -1,0 +1,38 @@
+aid: newman
+name: Newman
+description: >-
+  Newman is the open source command-line companion for Postman that runs Postman collections from the CLI for automated API testing in CI/CD pipelines.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Testing
+  - Functional Testing
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/newman/refs/heads/main/apis.yml
+created: '2026-03-25'
+modified: '2026-03-25'
+specificationVersion: '0.19'
+apis:
+  - aid: newman:newman
+    name: Newman
+    description: >-
+      Newman is the open source command-line companion for Postman that runs Postman collections from the CLI for automated API testing in CI/CD pipelines.
+    humanURL: https://github.com/postmanlabs/newman
+    tags:
+      - Testing
+      - Functional Testing
+    properties:
+      - type: Documentation
+        url: https://github.com/postmanlabs/newman#readme
+      - type: GitHub Repository
+        url: https://github.com/postmanlabs/newman
+common:
+  - type: Website
+    url: https://github.com/postmanlabs/newman
+  - type: Documentation
+    url: https://github.com/postmanlabs/newman#readme
+  - type: GitHub Organization
+    url: https://github.com/postmanlabs/newman
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
