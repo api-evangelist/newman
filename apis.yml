@@ -5,8 +5,8 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - Testing
   - Functional Testing
+  - Testing
 url: >-
   https://raw.githubusercontent.com/api-evangelist/newman/refs/heads/main/apis.yml
 created: '2026-03-25'
@@ -19,8 +19,8 @@ apis:
       Newman is the open source command-line companion for Postman that runs Postman collections from the CLI for automated API testing in CI/CD pipelines.
     humanURL: https://github.com/postmanlabs/newman
     tags:
-      - Testing
       - Functional Testing
+      - Testing
     properties:
       - type: Documentation
         url: https://github.com/postmanlabs/newman#readme
