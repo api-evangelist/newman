@@ -49,6 +49,15 @@ apis:
       - type: Postman Learning Center
         url: https://learning.postman.com/docs/running-collections/using-newman-cli/command-line-integration-with-newman/
 common:
+  - type: IssueTracker
+    url: https://github.com/postmanlabs/newman/issues
+  - type: SecurityPolicy
+    url: https://github.com/postmanlabs/newman/blob/develop/SECURITY.md
+  - type: ContributionGuide
+    url: https://github.com/postmanlabs/newman/blob/develop/.github/CONTRIBUTING.md
+  - type: License
+    name: Apache-2.0
+    url: https://github.com/postmanlabs/newman/blob/develop/LICENSE
   - type: Website
     url: https://github.com/postmanlabs/newman
   - type: Documentation
