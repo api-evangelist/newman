@@ -4,6 +4,18 @@ description: >-
   Newman is the open source command-line companion for Postman that runs Postman
   collections from the CLI for automated API testing in CI/CD pipelines.
 type: Index
+deliveryModel:
+  model: self-hosted
+  license: Apache-2.0
+  open_source: true
+  commercial: false
+  callable_host: false
+  label: Self-hosted open source · you run it yourself
+  confidence: high
+  source:
+  - license
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: freemium
   onboarding: unknown
